@@ -1,0 +1,36 @@
+.centered_artin
+{
+    text-align: center;
+}
+
+.large
+{
+    font-size: large;
+}
+
+.medium
+{
+    font-size: medium;
+}
+
+.small
+{
+    font-size: small;
+}
+.large_60
+{
+    font-size: 60px;
+}
+
+button {
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+}
+button:hover {
+    background-color: green;
+}
+body {
+    background-color: #3498db;
+}
